@@ -1,0 +1,14 @@
+venv
+.env
+
+__pycache__/
+*.pyc   
+logs/
+build/
+dist/   
+*.egg-info/
+storage/
+
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
